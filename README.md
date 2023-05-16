@@ -7,7 +7,8 @@ https://github.com/wuyunjiang/createAppleSubEmail
 将icloud提取到的数据粘贴到input.txt
 
 
-在此脚本目录的地址栏中输入cmd，回车 
+在此脚本目录的地址栏中输入cmd，回车 （Windoes操作）
+打开Terminal，使用使用cd命令到脚本所在目录（Mac操作）
 
 
 执行以下命令 python ExtractAppleSubEmail.py
