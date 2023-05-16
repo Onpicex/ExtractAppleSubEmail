@@ -3,16 +3,15 @@
 
 https://github.com/wuyunjiang/createAppleSubEmail
 
+将icloud提取到的数据粘贴到input.txt
 
-2，将icloud提取到的数据粘贴到input.txt
-
-3，在此脚本目录的地址栏中输入cmd，回车
+在此脚本目录的地址栏中输入cmd，回车
 ![image](https://github.com/Onpicex/ExtractAppleSubEmail/assets/72106979/b3acb9c7-ac7f-4cdb-859f-89a5e47fbfb9)
 
-4，执行以下命令
+执行以下命令
 python ExtractAppleSubEmail.py
 
-5，结果输出到当前目录的output.xlsx
+结果输出到当前目录的output.xlsx
 
 
 其他：
