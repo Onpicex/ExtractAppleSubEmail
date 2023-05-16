@@ -12,7 +12,8 @@ https://github.com/wuyunjiang/createAppleSubEmail
 打开Terminal，使用cd 脚本路径（Mac操作）
 
 
-执行以下命令 python ExtractAppleSubEmail.py
+执行以下命令 
+python ExtractAppleSubEmail.py
 
 
 结果输出到当前目录的output.xlsx
