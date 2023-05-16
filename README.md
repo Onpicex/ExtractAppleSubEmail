@@ -8,6 +8,7 @@ https://github.com/wuyunjiang/createAppleSubEmail
 
 
 在此脚本目录的地址栏中输入cmd，回车 （Windoes操作）
+
 打开Terminal，使用使用cd命令到脚本所在目录（Mac操作）
 
 
