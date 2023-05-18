@@ -14,6 +14,8 @@ https://github.com/wuyunjiang/createAppleSubEmail
 
 执行以下命令 
 
+pip install -r requirements.txt
+
 python ExtractAppleSubEmail.py
 
 
