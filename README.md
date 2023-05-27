@@ -7,7 +7,7 @@ https://github.com/wuyunjiang/createAppleSubEmail
 将icloud提取到的数据粘贴到input.txt
 
 
-在此脚本目录的地址栏中输入cmd，回车 （Windoes操作）
+在此脚本目录的地址栏中输入cmd，回车 （Windows操作）
 
 打开Terminal，使用cd 脚本路径（Mac操作）
 
